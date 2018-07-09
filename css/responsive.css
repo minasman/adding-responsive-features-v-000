@@ -64,6 +64,9 @@
   }
   #navbar nav a.menu-icon {
     display: block;
-    float: right
+    float: right;
+    font-size: 
+    padding: 
+    width: auto;
   }
 }
